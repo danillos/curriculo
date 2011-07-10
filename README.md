@@ -56,7 +56,7 @@ forrst: [http://forrst.me/danillos/](http://forrst.me/danillos/ "pessoal")
 
 ### Proprietários
 
-* **Sook CMS** (Ruby on Rails) ([screenshot](https://github.com/danillos "foto"))  
+* **Sook CMS** (Ruby on Rails) ([screenshot](https://github.com/danillos/curriculo/raw/master/images/cms_sook.jpg "foto"))  
 
   Gerenciador de conteúdo escrito em Ruby on Rails que acessa remotamente o banco de dados do cliente.
 
