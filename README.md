@@ -65,7 +65,7 @@ forrst: [http://forrst.me/danillos/](http://forrst.me/danillos/ "pessoal")
 * Ganhei o Prêmio Imaster Intercon 2005 na categoria Web Standards
 * 
 
-## Formamação
+## Formação
 
-* Gradudado em Sistemas de Informação pela (FAL)
+* Graduado em Sistemas de Informação pela (FAL)
 * Pós em Tecnologias Web para negócios (FEJAL)
