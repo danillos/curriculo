@@ -12,7 +12,7 @@ Atualmente trabalho na Rede social [Edufindme](http://edufindme.com "Link") e em
 
 blog: [http://www.danillocesar.com.br](http://www.danillocesar.com.br "Blog pessoal")  
 twitter: [@danillo](http://twitter.com/danillos "pessoal")  
-githug: [https://github.com/danillos](https://github.com/danillos "pessoal") e [https://github.com/sook](https://github.com/sook "empresa")  
+github: [https://github.com/danillos](https://github.com/danillos "pessoal") e [https://github.com/sook](https://github.com/sook "empresa")  
 forrst: [http://forrst.me/danillos/](http://forrst.me/danillos/ "pessoal") 
 
 ## Conhecimentos
