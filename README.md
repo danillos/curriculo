@@ -4,9 +4,9 @@
 
 Local: Maceió - Alagoas | Idade: 25 anos
 
-Desenvolvedor web a mais de 8 anos, Apple maníaco, trabalho sempre escutando uma boa música. Gosto muito do que faço
-e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de ficar na internet 
-para me manter atualizado nas novas tecnologias e tendências, sou programador mas trabalho um pouco com design e "*user experience*".
+Sou desenvolvedor web a mais de 8 anos, Apple maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço
+e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet 
+para me manter atualizado nas novas tecnologias e tendências. Sou programador mas trabalho um pouco com design e "*user experience*".
 
 Atualmente trabalho na Rede social [Edufindme](http://edufindme.com "Link") e em minha empresa [Sook](http://sook.com.br "link")
 
@@ -69,3 +69,10 @@ forrst: [http://forrst.me/danillos/](http://forrst.me/danillos/ "pessoal")
 
 * Graduado em Sistemas de Informação pela (FAL)
 * Pós em Tecnologias Web para negócios (FEJAL)
+ 
+
+--- 
+
+  
+Sentiu falta de algo importante em meu currículo?  
+[Envie-me uma mensagem ](https://github.com/inbox/new/danillos "Envie-me uma mensagem ") e ajude-me a melhora-lo.
