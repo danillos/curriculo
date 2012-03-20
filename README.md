@@ -17,9 +17,9 @@ forrst: [http://forrst.me/danillos/](http://forrst.me/danillos/ "pessoal")
 
 ## Conhecimentos
 
-* PHP (6 anos)
-* Ruby (2 anos)
-* Javascript (2 anos)
+* PHP (7 anos)
+* Ruby (3 anos)
+* Javascript (3 anos)
 * HTML e CSS (LESS)
 * Sistemas de controle de versão (git, svn)
 * Testes automatizados (bdd, tdd)
