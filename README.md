@@ -1,3 +1,5 @@
+(Outdated)
+
 # Danillo César de O. Melo (currículo)
 
 <img src="http://www.gravatar.com/avatar/a0ff40b949139bdf83174f89f04407a3.png" />
@@ -18,15 +20,14 @@ forrst: [http://forrst.me/danillos/](http://forrst.me/danillos/ "pessoal")
 ## Conhecimentos
 
 * PHP (7 anos)
-* Ruby (3 anos)
+* Ruby (7 anos)
 * Javascript (3 anos)
-* HTML e CSS (LESS)
+* HTML/CSS
 * Sistemas de controle de versão (git, svn)
 * Testes automatizados (bdd, tdd)
 * Desenvolvimento Ágil
-* User experience e design ([alguns trabalhos](http://forrst.me/danillos/posts "forrst")) 
-* Segurança e performance web (já prestei pequenas consultorias)
-* Inglês suficiente para ler e entender.
+* Segurança e performance web
+* Inglês
 
 ## Projetos
 
